@@ -21,8 +21,5 @@
 				<argument name="template" xsi:type="string">SY_MultipleLayeredNavigation::layer/filter.phtml</argument>
 			</action>
 		</referenceBlock>
-		<referenceContainer name="before.body.end">
-			<block class="Magento\Framework\View\Element\Template" name="sy.copyright.link" template="SY_MultipleLayeredNavigation::copyright/link.phtml" />
-		</referenceContainer>
 	</body>
 </page>
